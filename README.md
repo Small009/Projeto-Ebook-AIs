@@ -28,16 +28,10 @@ Conteúdo gerado via Geminai
 Imagens geradas via Geminai
 
 📚 Materiais
-Imagens utilizadas em assets
-ebook gerado durante as aulas em output
+Imagens utilizadas em img <br>
+ebook gerado durante as aulas em outputAI
 
 
 👨‍💻 Expert
 
 Murilo Sousa
-   
-
-
-
-
-⌨️ com 💜 por Felipe Aguiar
